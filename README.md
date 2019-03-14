@@ -6,9 +6,10 @@ The game starts with 45 cards. Randomly divide them into some number of piles of
 
 This program will be able to be run in a few different modes, each of these controlled by a command-line argument. The user may supply one or both of the arguments, or neither.
 
--u
+**-u**
 Prompts for the initial configuration from the user, instead of generating a random configuration.
--s
+
+**-s**
 Stops between every round of the game. The game only continues when the user hits enter (a.k.a., return).
 
 **BulgarianSolitaireSimulator.java:**  
